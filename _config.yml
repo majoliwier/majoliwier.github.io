@@ -1,5 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.0
 title: Maj Oliwier homepage
 description: hello there!
-plugins:
-- jekyll-remote-theme 
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
