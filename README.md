@@ -3,7 +3,7 @@
 
 ### My beloved dog chilling on me.
 
-<img src="Pictures/IMG_2562.JPEG" alt="drawing" width="200"/>
+<img src="Pictures/IMG_2562.JPEG" alt="drawing" width="280" height="350"/>
 
 ### According to spotify wrapped this is my [favourite song](https://www.youtube.com/watch?v=RVmG_d3HKBA).
 
@@ -29,6 +29,3 @@
 <a href="https://www.youtube.com/embed/Ge9p4iqARrY?autoplay=1&mute=1" target="_blank">
  <img src="http://img.youtube.com/vi/Ge9p4iqARrY/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="0" />
 </a>
-
-
-
