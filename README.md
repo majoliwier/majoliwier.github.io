@@ -9,14 +9,15 @@
 #### According to spotify wrapped this is my [favourite song](https://www.youtube.com/watch?v=RVmG_d3HKBA).
 
 #### Recipe for my favorite desert - an apple pie:
->
->##### Ingredients
+> Ingredients
 >> - 1 package pastry for a 9-inch double-crust pie
 >> - 3/4 cup white sugar, or more to taste
 >> - 1 teaspoon ground cinnamon
 >> - 6 cups thinly sliced apples
 >> - 1 tablespoon butter
->##### Directions
+>
+> Directions
+> 
 >> 1. Preheat the oven to 230 degrees C.
 >> 2. Line a 9-inch pie dish with one pastry crust; set second one aside.
 >> 3. Combine 3/4 cup sugar and cinnamon in a small bowl. Add more sugar if your apples are tart.
