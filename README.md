@@ -1,14 +1,14 @@
 ----
-## Hi, what's up? That's my webstie.
+# Hi, what's up? That's my webstie.
 
-#### My beloved dog chilling on me.
+### My beloved dog chilling on me.
 
 
 <img src="Pictures/IMG_2562.JPEG" alt="drawing" width="200"/>
 
-#### According to spotify wrapped this is my [favourite song](https://www.youtube.com/watch?v=RVmG_d3HKBA).
+### According to spotify wrapped this is my [favourite song](https://www.youtube.com/watch?v=RVmG_d3HKBA).
 
-#### Recipe for my favorite desert - an apple pie:
+### Recipe for my favorite desert - an apple pie:
 > Ingredients
 >> - 1 package pastry for a 9-inch double-crust pie
 >> - 3/4 cup white sugar, or more to taste
@@ -25,7 +25,7 @@
 >> 5. Bake pie on the lowest rack of the preheated oven for 10 minutes. Reduce oven temperature to 175 degrees C and continue baking until golden brown and filling bubbles, 30 to 35 minutes more. 
 >> 6. Serve warm or cold. 
 
-#### Lol, did you know that maranta moves its leaves?
+### Lol, did you know that maranta moves its leaves?
 
 <a href="https://www.youtube.com/embed/Ge9p4iqARrY?autoplay=1&mute=1" target="_blank">
  <img src="http://img.youtube.com/vi/Ge9p4iqARrY/mqdefault.jpg" alt="Watch the video" width="560" height="315" border="0" />
